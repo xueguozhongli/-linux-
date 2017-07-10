@@ -50,3 +50,5 @@
     10,进入10.100.2.197环境
     11,开启/home/apache-cassandra-2.1.8/bin/cassandra
     12,开启vega服务 /home/vega_watch/bin/start.sh
+    
+    
